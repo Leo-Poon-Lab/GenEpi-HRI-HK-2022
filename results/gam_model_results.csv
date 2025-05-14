@@ -1,0 +1,9 @@
+predictor,estimate_log,se,z_value,p_value,irr,irr_ci_lower,irr_ci_upper
+data_local_transport_total,0.001,0.002,0.345,0.73,1.001,0.997,1.004
+cross_border_Airport_Arrival,0,0,0.06,0.952,1,0.999,1.001
+cross_border_Airport_Departure,-0,0,-0.264,0.792,1,0.999,1
+cross_border_Mainland_border_Arrival,-0,0.001,-0.316,0.752,1,0.999,1.001
+cross_border_Mainland_border_Departure,-0.001,0.001,-0.646,0.518,0.999,0.997,1.001
+google_index_Public_Parks,-0.019,0.031,-0.611,0.541,0.981,0.923,1.043
+google_index_Public_Grocery_and_pharmacy,0.005,0.027,0.181,0.857,1.005,0.953,1.06
+google_index_Private_Workplaces,0.002,0.014,0.18,0.857,1.002,0.976,1.03
